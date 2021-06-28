@@ -9,32 +9,53 @@ redirect_from:
 
 {% include base_path %}
 
+Research Interest
+======
+* Hydrological Modelling
+* Machine Learning Applications in Hydrology
+* Geographic Information Systems
+* Design and Operation of Reservoir Systems
+* Hydroinformatics
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Civil Engineering, Istanbul Technical University, 2016
+* M.S. in Water Resources, University of Iowa, 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* August 2014 : Internship
+  * Ozdogan Grup
+  * Ayvali Dam and Hydroelectric Power Plant Project
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* July 2015 - August 2015 : Internship
+  * ENKA
+  * Analysis and Design of Reinforced Concrete Structures
+
+* March 2017 - March 2018 : Research Assistant
+  * Erzurum Technical University
+  * Project: Multivariate Flood Frequency Analysis using Copulas; a case
+study for The Euphrates Basin
+  *  Funded by: Scientic and Technological Research Council of Turkey (TÜBTAK)
+Grant Number: 115Y673
+  * Advisor: Fatih Tosunoglu, Ph.D
   
-Skills
+* January 2019 - present : Research Assistant
+  * University of Iowa, IIHR-Hydroscience&Engineering
+  * Advisor: Ricardo Mantilla, Ph.D
+
+* February 2021 - present : Water Resources Engineer
+  * General Directorate of State Hydraulic Works(DSI) Turkiye
+  * Department of Surveying and Planing
+
+Projects
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Deep Learning Models for Flood Forecasting
+  * Researcher and Data Analyst
+  *  Funded by The Iowa Initiative for Articial Intelligence
+* A QGIS Plugin for Mapping and Analyzing Reservoirs
+  * Self-paced
+
 
 Publications
 ======
@@ -42,18 +63,27 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Software
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Programming Languages
+  * Python, Matlab, JavaScript, TeX  
+* Database Management Systems
+    * PostgreSQL
+* Others
+    * QGIS-PyQGIS, CSS, HTML, Mendeley, Git, Firebase, VS Code
+* Operating Systems 
+    * Windows, Linux Ubuntu
+
+Honors&Awards
+=====
+* Scholarship (MSc) - General Directorate of State Hydraulic Works Turkiye (August 2017 - December 2020)
+
+Languages
+=====
+* Turkish : Native
+* English : Fluent
+
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+  
