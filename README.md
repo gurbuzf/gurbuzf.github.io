@@ -1,7 +1,7 @@
 My Personal Website
 =====
 
-Visit [faruk-gurbuz.com](faruk-gurbuz.com). 
+Visit [faruk-gurbuz.com](https://faruk-gurbuz.com). 
 
 ### Credit
 
