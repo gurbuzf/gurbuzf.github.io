@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Faruk Gürbüz"
+title                    : "Faruk's Website"
 title_separator          : "-"
 name                     : &name "Faruk Gürbüz"
 description              : &description "Water Resources Engineer"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Faruk Gürbüz"
   avatar           : "profile.png"
-  bio              : "Water Resources Engineer, MSc - Developer - Engineer at General Directorate of State Hydraulic Works Turkiye"
+  bio              : "Water Resources Engineer, MSc - Developer - Engineer at General Directorate of State Hydraulic Works,Turkiye"
   location         : "Ankara, Turkiye"
   employer         :
   pubmed           : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://tr.linkedin.com/in/faruk-gurbuz"
+  linkedin         : "faruk-gurbuz"
   orcid            : "https://orcid.org/0000-0002-7485-1110"
   pinterest        :
   soundcloud       :
