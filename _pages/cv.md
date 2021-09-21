@@ -56,12 +56,6 @@ Projects
 * A QGIS Plugin for Mapping and Analyzing Reservoirs
   * Self-paced
 
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Software
 ======
@@ -73,6 +67,12 @@ Software
     * QGIS-PyQGIS, CSS, HTML, Mendeley, Git, Firebase, VS Code
 * Operating Systems 
     * Windows, Linux Ubuntu
+
+<!-- Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul> -->
 
 Honors&Awards
 =====
