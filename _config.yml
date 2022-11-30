@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Faruk's Website"
+title                    : "FrkGrbz"
 title_separator          : "-"
 name                     : &name "Faruk Gürbüz"
 description              : &description "Water Resources Engineer"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Faruk Gürbüz"
   avatar           : "profile.png"
-  bio              : "Water Resources Engineer, MSc - Developer - Engineer at General Directorate of State Hydraulic Works,Turkiye"
+  bio              : "Water Resources Engineer, MSc - Software Developer - Engineer at General Directorate of State Hydraulic Works,Turkiye"
   location         : "Ankara, Turkiye"
   employer         :
   pubmed           : 
